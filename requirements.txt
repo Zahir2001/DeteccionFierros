@@ -1,0 +1,7 @@
+tensorflow==2.13.0
+numpy
+opencv-python
+Pillow
+scikit-learn
+mysql-connector-python
+python-docx
